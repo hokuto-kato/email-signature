@@ -1,0 +1,13 @@
+{
+	"name": "email-signature",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"optimise": "node squoosh.mjs"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@squoosh/lib": "^0.4.0"
+	}
+}
